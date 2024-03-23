@@ -5,20 +5,32 @@ Bu proje, Java dilinde ikili arama ağacı (binary search tree) üzerinde çeşi
 **İŞLEVLER**
 
 *1-Veri Ekleme:* Kullanıcıdan alınan bir sayı, ikili arama ağacına eklenir.
+
 *2-Veri Ara:* Kullanıcıdan alınan bir sayının ağaçta olup olmadığı kontrol edilir.
+
 *3-Veri Silme:* Kullanıcıdan alınan bir sayı, ağaçtan silinir.
+
 *4-Ağacı Yazdırma:* İkili arama ağacı, "In-Order" sırasında dolaşılıp yazdırılır.
+
 *5-Matris Oluşturma ve Yazdırma:* İkili arama ağacının geçiş matrisi oluşturulur ve yazdırılır. Bu matris, ağacın yapısını görselleştirir.
+
 
 **KULLANIM**
 
 Kullanıcı, terminal üzerinden aşağıdaki işlevleri seçerek ikili arama ağacı üzerinde işlem yapabilir:
+
 *Veri Ekle*
+
 *Veri Ara*
+
 *Veri Sil*
+
 *Ağacı Yazdır*
+
 *Matrisi Oluştur ve Yazdır*
+
 *Çıkış*
+
 
 **ÖRNEK KULLANIM**
 
