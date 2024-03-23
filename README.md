@@ -32,6 +32,7 @@ Kullanıcı, terminal üzerinden aşağıdaki işlevleri seçerek ikili arama a�
 *Çıkış*
 
 
+
 **ÖRNEK KULLANIM**
 
 ```java
